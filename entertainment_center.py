@@ -10,8 +10,7 @@ def create_movies_collection():
     movies.append(media.Movie("Star Wars: Episode IV - A New Hope",
                               "https://www.youtube.com/watch?v=9gvqpFbRKtQ",
                               "https://images-na.ssl-images-amazon.com/" +
-                              "images/I/51-oAlQIwIL._SX302_BO1,204," +
-                              "203,200_.jpg"))
+                              "images/I/61zAtWHeXLL._SY445_.jpg"))
     movies.append(media.Movie("Star Wars: Episode V - The Empire Strikes Back",
                               "https://www.youtube.com/watch?v=JNwNXF9Y6kY",
                               "https://i.jeded.com/i/star-wars-episode-v--" +
