@@ -10,4 +10,4 @@ _The Star Wars Collection_ generates a web page with all Star Wars movies. Click
 * The Star Wars Collection appears in your web browser. The html file was saved to the repository folder.
 
 ## License
-_The Star Wars Collection_ is released under the [MIT License](the-star-wars-collection/LICENSE.txt).
+_The Star Wars Collection_ is released under the [MIT License](/LICENSE.txt).
