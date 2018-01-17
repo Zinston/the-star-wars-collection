@@ -1,6 +1,10 @@
 class Movie:
-    """This class defines and display a movie.
-       It takes a title and a trailer video."""
+    """This class defines a movie.
+       
+       Attributes:
+       	title (str): The title of the movie.
+        trailer (str): The url of the movie's trailer on youtube.
+        poster (str): The url of the movie's poster image."""
 
     def __init__(self, title, trailer, poster):
         self.title = title
